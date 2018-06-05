@@ -4,6 +4,7 @@ Test for HTML.
   <head>
   </head>
   <body>
+    <h1>HTML easy test</h1>
     <p>HELLO</p>
   </body>
 </html>
